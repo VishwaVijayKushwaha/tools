@@ -1,6 +1,6 @@
-#CROSS-COMPILING for Raspberry pi
+# CROSS-COMPILING for Raspberry pi
 
-##Reference https://www.raspberrypi.org/documentation/linux/kernel/building.md
+#### Reference https://www.raspberrypi.org/documentation/linux/kernel/building.md
 
 ```
 git clone https://github.com/raspberrypi/tools ~/
